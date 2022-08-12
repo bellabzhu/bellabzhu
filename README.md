@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bella Bzhukova</h1>
+<h1 align="center">Hi, I'm Bella Bzhukova</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on React version of [Mesto](https://github.com/bellabzhu/-mesto)

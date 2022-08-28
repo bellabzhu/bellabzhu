@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **React**
 
-- 📚 Currently reading *Grokking Algorithms*
+- 📚 Currently reading **Grokking Algorithms**
 
 - 📫 How to reach me **bella@bzhukova.com**
 

@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Bella Bzhukova</h1>
 <h3 align="center">Curious junior frontend developer</h3>
 
-- 🔭 I’m currently working on React version of [Mesto](https://github.com/bellabzhu/-mesto)
+- 🔭 Currently working on React version of [Mesto](https://github.com/bellabzhu/-mesto)
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently learning **React**
+
+- 📚 Currently reading *Grokking Algorithms*
 
 - 📫 How to reach me **bella@bzhukova.com**
 

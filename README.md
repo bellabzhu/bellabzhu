@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Bella Bzhukova</h1>
-<h3 align="center">Curious junior frontend developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 🔭 Currently working on React version of [Mesto](https://github.com/bellabzhu/-mesto)
+Currently I'm
 
-- 🌱 Currently learning **React**
+- 💻 working on React version of [Mesto](https://github.com/bellabzhu/-mesto)
 
-- 📚 Currently reading **Grokking Algorithms**
+- 🎓 studying Front End Development at <a href="https://www.linkedin.com/company/practicum-russia">Yandex Practicum</a>
 
-- 📫 How to reach me **bella@bzhukova.com**
+- ⚙️ taking Harvard's CS50 course at <a href="https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home">edX</a>
+
+- 📚 reading <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">**Grokking Algorithms**</a>
+
+- 📫 How to reach me **bellabzhu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

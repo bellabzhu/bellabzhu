@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bella Bzhukova</h1>
 <h3 align="center">Frontend Developer</h3>
 
-Currently I'm
+Currently **I'm looking for a job** and also I'm:
 
 - 💻 working on React version of [Mesto](https://github.com/bellabzhu/-mesto)
 

@@ -3,7 +3,7 @@
 
 Currently **I'm looking for a job** and also I'm:
 
-- 💻 working on React project [Mesto](https://github.com/bellabzhu/mesto-react)
+- 💻 working on registration/authorisation features in React project [Mesto](https://github.com/bellabzhu/mesto-react)
 
 - 🎓 studying Front End Development at <a href="https://www.linkedin.com/company/practicum-russia">Yandex Practicum</a>
 

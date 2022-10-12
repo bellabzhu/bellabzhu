@@ -7,8 +7,6 @@ Currently **I'm looking for a job** and also I'm:
 
 - 🎓 studying Front End Development at <a href="https://www.linkedin.com/company/practicum-russia">Yandex Practicum</a>
 
-- ⚙️ taking Harvard's CS50's Web Programming with Python and JavaScript course at <a href="https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home">edX</a>
-
 - 📚 reading <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">**Grokking Algorithms**</a>
 
 

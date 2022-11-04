@@ -3,9 +3,7 @@
 
 Currently **I'm looking for a job** and also I'm:
 
-- 💻 working on registration/authorisation features in React project [Mesto](https://github.com/bellabzhu/mesto-react)
-
-- 🎓 studying Front End Development at <a href="https://www.linkedin.com/company/practicum-russia">Yandex Practicum</a>
+- 🎓 studying Frontend at <a href="https://www.linkedin.com/company/practicum-russia">Yandex Practicum</a>
 
 - 📚 reading <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">**Grokking Algorithms**</a>
 

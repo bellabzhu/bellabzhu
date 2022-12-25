@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Bella Bzhukova</h1>
 <h3 align="center">Frontend Developer</h3>
 
-Currently **I'm looking for a job** and also I'm:
-
-- 🎓 studying Frontend at <a href="https://www.linkedin.com/company/practicum-russia">Yandex Practicum</a>
-
-- 📚 reading <a href="https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio">**Grokking Algorithms**</a>
-
+Currently I'm working on several projects till 2023
 
 
 <h3 align="left">Connect with me:</h3>

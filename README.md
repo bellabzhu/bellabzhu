@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Bella Bzhukova</h1>
 <h3 align="center">Frontend Developer</h3>
 
-Currently I'm working on several projects till 2023
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
